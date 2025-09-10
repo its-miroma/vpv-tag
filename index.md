@@ -2,6 +2,6 @@
 layout: home
 
 hero:
-  name: VPV - Tags
+  name: V1
   tagline: Showcase of VitePress Versions with Git tags.
 ---
